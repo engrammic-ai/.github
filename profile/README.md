@@ -4,7 +4,7 @@
 
 ### *Persistence without purpose is just pollution.*
 
-[The Problem](#the-problem) &nbsp;&bull;&nbsp; [Philosophy](#philosophy) &nbsp;&bull;&nbsp; [Cognitive Stack](#the-cognitive-stack) &nbsp;&bull;&nbsp; [Contact](mailto:khimanialiasgar@gmail.com)
+[The Problem](#the-problem) &nbsp;&bull;&nbsp; [Philosophy](#philosophy) &nbsp;&bull;&nbsp; [Cognitive Stack](#the-cognitive-stack) &nbsp;&bull;&nbsp; [Contact](mailto:founders@engrammic.ai)
 
 </div>
 
@@ -197,13 +197,17 @@ flowchart TB
 
 <br />
 
-## Coming Soon
+## Get Started
 
 <div align="center">
 
-*Early access available. First public repositories drop soon.*
+| Repository | Purpose |
+|------------|---------|
+| [primitives](https://github.com/engrammic-ai/primitives) | EAG schema library (Apache 2.0) |
+| [engine](https://github.com/engrammic-ai/engine) | Local engine, no cloud required (Apache 2.0) |
+| [mcp](https://github.com/engrammic-ai/mcp) | MCP client for hosted service |
 
-[Reach out](mailto:khimanialiasgar@gmail.com) if you'd like to integrate early.
+*Closed beta now open. [Join the waitlist](https://engrammic.ai) or [reach out](mailto:founders@engrammic.ai) for access.*
 
 </div>
 
