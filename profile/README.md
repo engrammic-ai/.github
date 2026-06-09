@@ -203,6 +203,7 @@ flowchart TB
 
 | Repository | Purpose |
 |------------|---------|
+| [docs](https://docs.engrammic.ai) | API reference & guides |
 | [primitives](https://github.com/engrammic-ai/primitives) | EAG schema library (Apache 2.0) |
 | [engine](https://github.com/engrammic-ai/engine) | Local engine, no cloud required (Apache 2.0) |
 | [mcp](https://github.com/engrammic-ai/mcp) | MCP client for hosted service |
