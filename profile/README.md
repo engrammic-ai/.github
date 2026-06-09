@@ -213,6 +213,17 @@ flowchart TB
 
 ---
 
+## References
+
+| | |
+|---|---|
+| [Roynard 2026](https://arxiv.org/abs/2604.11364) | Category errors in retrieval-augmented generation |
+| [Hindsight](https://arxiv.org/abs/2512.12818) | Structured agent memory that retains, recalls, and reflects |
+| [SmartSearch](https://arxiv.org/abs/2603.15599) | How ranking beats structure for conversational memory |
+| [GraphRAG](https://arxiv.org/abs/2501.00309) | Retrieval-augmented generation with graphs |
+
+---
+
 <p align="center">
   <img src="../media/footer.svg" width="800">
 </p>
