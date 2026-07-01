@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../media/banner.svg" alt="Engrammic" width="800" />
+# engrammic
 
 ### Before intelligence can be trusted, it must learn to doubt.
 
