@@ -5,6 +5,7 @@
 ### Before intelligence can be trusted, it must learn to doubt.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21029662.svg)](https://doi.org/10.5281/zenodo.21029662)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21071102.svg)](https://doi.org/10.5281/zenodo.21071102)
 [![Docs](https://img.shields.io/badge/docs-engrammic.ai-blue)](https://docs.engrammic.ai)
 [![X](https://img.shields.io/badge/X-@engrammic-black)](https://x.com/engrammic)
 
